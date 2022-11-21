@@ -12,3 +12,4 @@ Algorithm is a set of well-defined instructions to solve a problem.
 
 The runtime of an algorithm depends on the programming language, the computer used to implememnt the program on, other programs running at the same time quanlity of the operating system.
 
+<u>Time complexity</u> -- time taken by the algorithm to run as a function of input time.
